@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/singh/Documents/Development/cro-android/app/src/main/res/layout/activity_channel_details.xml" value="0.41302083333333334" />
+        <entry key="..\:/Users/singh/Documents/Development/cro-android/app/src/main/res/layout/activity_home.xml" value="0.41302083333333334" />
+        <entry key="..\:/Users/singh/Documents/Development/cro-android/app/src/main/res/layout/activity_login.xml" value="0.4140625" />
         <entry key="..\:/Users/singh/Documents/Development/cro-android/app/src/main/res/layout/activity_main.xml" value="0.29981884057971014" />
       </map>
     </option>
